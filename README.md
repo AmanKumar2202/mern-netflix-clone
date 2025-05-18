@@ -141,3 +141,7 @@ pip install sentence-transformers
 Built to learn and integrate AI into real-world apps and enhance the movie discovery experience beyond keyword-based search.
 
 ---
+
+## 🔗 Deployed Link:
+
+[https://mern-netflix-clone-puce.vercel.app](https://mern-netflix-clone-puce.vercel.app)
